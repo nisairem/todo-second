@@ -1,0 +1,16 @@
+{
+  "todos": [
+    {
+      "id": "1671467352113",
+      "title": "kitap oku",
+      "date": "2022-12-19T16:29:12.113Z",
+      "completed": true
+    },
+    {
+      "id": "1671467404169",
+      "title": "odev yapıldı",
+      "date": "2022-12-19T16:30:04.169Z",
+      "completed": false
+    }
+  ]
+}
